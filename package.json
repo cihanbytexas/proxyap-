@@ -1,0 +1,11 @@
+{
+  "name": "vercel-proxy-api",
+  "version": "1.0.0",
+  "description": "Simple GET + POST proxy API for Vercel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/proxy.js"
+  },
+  "dependencies": {},
+  "type": "module"
+}
